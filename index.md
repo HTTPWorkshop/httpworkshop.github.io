@@ -1,0 +1,81 @@
+---
+layout: front
+title: The HTTP Workshop
+---
+
+HTTP/1.1 has been revised and HTTP/2 is out the door. What -- if anything --
+should the HTTP community focus on next? What will HTTP look like in ten or
+even twenty years?
+
+Lots of people have ideas about this, but don't have a chance to discuss their
+ideas with other HTTP implementers. Because the uses of HTTP differ so greatly
+-- even between browsers and Web servers -- it's difficult to understand all
+of the impact of a proposal without getting a number of people in the room.
+
+The HTTP Workshop is an attempt to facilitate these discussions in a focused
+atmosphere, with representation from many kinds of stakeholders in the HTTP
+ecosystem.
+
+Our goals are to:
+
+* Encourage discussion and understanding between different parts of the HTTP community
+* Identify areas of work or specific efforts that have common interest, to foster further work (e.g., in standards bodies)
+* Ensure broad input into future development of the protocol
+
+
+## When and Where
+
+The workshop will be held at in XXX, 27-30 July 2015. Exact details will be
+sent to participants upon registration.
+
+We are purposefully holding the workshop in a somewhat "out of the way"
+location; we want you engaged with the other participants, not popping out to
+visit an office or talk to a customer.
+
+We expect that each day will cover about two broad areas of discussion,
+possibly with presentations, or just open discussion. There will be plenty of
+unstructured time for "hallway" discussions, as well as social events.
+
+
+## Want to Come?
+
+We have limited space, and want to make sure the discussion is valuable for
+those who attend. So, a program committee will select attendees based upon
+submissions.
+
+We're looking for submissions that:
+
+* Explore problems in existing HTTP implementations and/or deployments
+* Propose ways to improve core aspects of HTTP such as performance, security, or reliability 
+* Define useful extensions to HTTP
+* Motivate work on HTTP/3 (or beyond), with or without the constraint of backwards compatibility
+
+... or something completely different.
+
+Your submission doesn't need to be a complete paper or presentation; it just
+needs to communicate something about HTTP that's worth getting in front of a
+group of HTTP implementers and experts. 
+
+Successful submissions will be notified of the workshop details by XXX, and
+will need to confirm their attendance. If the PC wants you to give a
+presentation based upon your submission, you'll be notified.
+
+All attendees will be expected to adhere to the [Conference Code of
+Conduct](http://confcodeofconduct.com). We will issue a summary of what happens
+at the workshop, but all discussion will occur under [Chatham House
+Rule](http://www.chathamhouse.org/about/chatham-house-rule) (although
+participants are free to publish their submissions or other materials they
+author with attribution).
+
+Please send submissions to XXX by XXX.
+
+
+## Program Committee
+
+The PC for the workshop is:
+
+* [Roy Fielding](http://roy.gbiv.com/)
+* [Mark Nottingham](https://www.mnot.net/)
+* [Julian Reschke](http://www.julian-reschke.de)
+* Martin Thomson
+
