@@ -31,8 +31,8 @@ Our goals are to:
 
 ## When and Where
 
-The workshop will be held at in XXX, 27-30 July 2015. Exact details will be
-sent to participants upon registration.
+The workshop will be held in Münster Germany, 27-30 July 2015. Exact details
+will be sent to participants upon registration.
 
 We are purposefully holding the workshop in a somewhat "out of the way"
 location; we want you engaged with the other participants, not popping out to
@@ -41,6 +41,9 @@ visit an office or talk to a customer.
 We expect that each day will cover about two broad areas of discussion,
 possibly with presentations, or just open discussion. There will be plenty of
 unstructured time for "hallway" discussions, as well as social events.
+
+There is a 200 Euro fee for participation to cover costs; lunch, drinks
+and snacks will be included.
 
 
 ## Want to Come?
@@ -66,22 +69,32 @@ Successful submissions will be notified of the workshop details by XXX, and
 will need to confirm their attendance. If the PC wants you to give a
 presentation based upon your submission, you'll be notified.
 
+Note that a successful submission only entitles the primary author to attend;
+if your company or project wishes to send multiple participants, it is best for
+them to send separate submissions.
+
 All attendees will be expected to adhere to the [Conference Code of
-Conduct](http://confcodeofconduct.com). We will issue a summary of what happens
-at the workshop, but all discussion will occur under [Chatham House
-Rule](http://www.chathamhouse.org/about/chatham-house-rule) (although
-participants are free to publish their submissions or other materials they
-author with attribution).
+Conduct](http://confcodeofconduct.com). We will publish a summary of what
+happens at the workshop, but will only publish submissions if their authors
+request it.
 
 Please send submissions to XXX by XXX.
+
+
+## Important Dates
+
+* Submissions due: 1 May 2015
+* Attendees notified by: 15 May 2015
+* Attendee confirmation by: 1 June 2015
+* HTTP Workshop: 27-30 July 2015
 
 
 ## Program Committee
 
 The PC for the workshop is:
 
-* [Roy Fielding](http://roy.gbiv.com/)
-* [Mark Nottingham](https://www.mnot.net/)
-* [Julian Reschke](http://www.julian-reschke.de)
-* Martin Thomson
+* [Roy Fielding](http://roy.gbiv.com/) - fielding at gbiv dot com
+* [Mark Nottingham](https://www.mnot.net/) - mnot at mnot dot net
+* [Julian Reschke](http://www.julian-reschke.de) - julian.reschke at greenbytes dot de
+* Martin Thomson - martin.thomson at gmail dot com
 
