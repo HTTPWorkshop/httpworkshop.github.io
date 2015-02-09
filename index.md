@@ -27,8 +27,8 @@ Our goals are to:
 
 ## When and Where
 
-The workshop will be held in Münster Germany, 27-30 July 2015. Exact details
-will be sent to participants upon registration.
+The workshop will be held in Münster Germany, 27-30 July 2015. Details will be
+sent to participants upon registration.
 
 We are purposefully holding the workshop in a somewhat "out of the way"
 location; we want you engaged with the other participants, not popping out to
