@@ -68,8 +68,9 @@ If the PC wants you to give a presentation based upon your submission, you'll
 be notified shortly thereafter.
 
 Note that a successful submission only entitles the primary author to attend;
-if your company or project wishes to send multiple participants, it is best for
-them to send separate submissions. We will be limiting representation from single companies and projects to assure balanced participation.
+if your organisation or project wishes to send multiple participants, it is
+best to send separate submissions. We will be limiting representation from
+single companies and projects to assure balanced participation.
 
 All attendees will be expected to adhere to the [Conference Code of
 Conduct](http://confcodeofconduct.com). We will publish a summary of what
