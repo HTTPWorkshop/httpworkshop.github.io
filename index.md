@@ -5,13 +5,9 @@ title: The HTTP Workshop
 
 # The HTTP Workshop
 
-<div class="jumbotron">
-
 HTTP/1.1 has been revised and HTTP/2 is out the door. What -- if anything --
 should the HTTP community focus on next? What will HTTP look like in ten or
 even twenty years?
-
-</div>
 
 Lots of people have ideas about this, but don't have a chance to discuss their
 ideas with other HTTP implementers. Because the uses of HTTP differ so greatly
