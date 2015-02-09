@@ -20,9 +20,9 @@ ecosystem.
 
 Our goals are to:
 
-* Encourage discussion and understanding between different parts of the HTTP community
-* Identify areas of work or specific efforts that have common interest, to foster further work (e.g., in standards bodies)
-* Ensure broad input into future development of the protocol
+* **Encourage** discussion and understanding between different parts of the HTTP community
+* **Identify** areas of work or specific efforts that have common interest, to foster further work (e.g., in standards bodies)
+* **Ensure** broad input into future development of the protocol
 
 
 ## When and Where
@@ -38,8 +38,8 @@ We expect that each day will cover about two broad areas of discussion,
 possibly with presentations, or just open discussion. There will be plenty of
 unstructured time for "hallway" discussions, as well as social events.
 
-There is a 200 Euro fee for participation to cover costs; lunch, drinks
-and snacks will be included.
+There is a **200 Euro** fee for participation to cover costs; lunch, drinks and
+snacks will be included.
 
 
 ## Want to Come?
@@ -61,10 +61,10 @@ Your submission doesn't need to be a complete paper or presentation; it just
 needs to communicate something about HTTP that's worth getting in front of a
 group of HTTP implementers and experts. 
 
-Successful submissions will be notified of the workshop details by 15 May 2015,
-and will need to confirm their attendance by 1 June 2015. If the PC wants you
-to give a presentation based upon your submission, you'll be notified shortly
-thereafter.
+Successful submissions will be notified of the workshop details by 
+**15 May 2015**, and will need to confirm their attendance by **1 June 2015**.
+If the PC wants you to give a presentation based upon your submission, you'll
+be notified shortly thereafter.
 
 Note that a successful submission only entitles the primary author to attend;
 if your company or project wishes to send multiple participants, it is best for
@@ -75,7 +75,7 @@ Conduct](http://confcodeofconduct.com). We will publish a summary of what
 happens at the workshop, but will only publish submissions if their authors
 request it.
 
-Please send submissions to XXX by 1 May 2015.
+Please send submissions to XXX by **1 May 2015**.
 
 
 ## Important Dates
