@@ -75,7 +75,9 @@ Conduct](http://confcodeofconduct.com). We will publish a summary of what
 happens at the workshop, but will only publish submissions if their authors
 request it.
 
-Please send submissions to XXX by **1 May 2015**.
+Please make submissions to
+[easychair](https://easychair.org/conferences/?conf=httpws2015) by **1 May
+2015**.
 
 
 ## Important Dates
