@@ -21,7 +21,7 @@ ecosystem.
 Our goals are to:
 
 * **Encourage** discussion and understanding between different parts of the HTTP community
-* **Identify** areas of work or specific efforts that have common interest, to foster further work (e.g., in standards bodies)
+* **Identify** areas of work or specific efforts that have common interest, to foster further work (in standards bodies and in implementations)
 * **Ensure** broad input into future development of the protocol
 
 
