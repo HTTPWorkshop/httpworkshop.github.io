@@ -1,5 +1,6 @@
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+/*  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+  font-family: Georgia, serif;
   font-size: 20px;
   line-height: 28px;
   text-rendering: optimizeLegibility;
