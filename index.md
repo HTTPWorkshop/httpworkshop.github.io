@@ -82,7 +82,7 @@ Please send submissions to XXX by **1 May 2015**.
 
 * Submissions due: 1 May 2015
 * Attendees notified by: 15 May 2015
-* Attendee confirmation by: 1 June 2015
+* Attendee confirmation and payment by: 1 June 2015
 * HTTP Workshop: 27-30 July 2015
 
 
