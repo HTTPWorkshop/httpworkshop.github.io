@@ -74,7 +74,7 @@ Conduct](http://confcodeofconduct.com). We will publish a summary of what
 happens at the workshop, but will only publish submissions if their authors
 request it.
 
-Please send submissions to XXX by XXX.
+Please send submissions to XXX by 1 May 2015.
 
 
 ## Important Dates
