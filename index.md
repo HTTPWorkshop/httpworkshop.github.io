@@ -57,9 +57,9 @@ We're looking for submissions that:
 
 ... or something completely different.
 
-Your submission doesn't need to be a complete paper or presentation; it just
-needs to communicate something about HTTP that's worth getting in front of a
-group of HTTP implementers and experts. 
+Your submission doesn't necessarily need to be a complete paper or
+presentation; it just needs to communicate something about HTTP that's worth
+getting in front of a group of HTTP implementers and experts.
 
 Successful submissions will be notified of the workshop details by 
 **15 May 2015**, and will need to confirm their attendance by **1 June 2015**.
