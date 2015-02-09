@@ -55,11 +55,12 @@ We're looking for submissions that:
 * Define useful extensions to HTTP
 * Motivate work on HTTP/3 (or beyond), with or without the constraint of backwards compatibility
 
-... or something completely different.
+... or something completely different. If you are the primary maintainer of an
+implementation of HTTP, please mention its details in your submission.
 
-Your submission doesn't necessarily need to be a complete paper or
-presentation; it just needs to communicate something about HTTP that's worth
-getting in front of a group of HTTP implementers and experts.
+Submissions don't necessarily need to be a complete paper or presentation; it
+just needs to communicate something about HTTP that's worth getting in front of
+a group of HTTP implementers and experts.
 
 Successful submissions will be notified of the workshop details by 
 **15 May 2015**, and will need to confirm their attendance by **1 June 2015**.
@@ -68,7 +69,7 @@ be notified shortly thereafter.
 
 Note that a successful submission only entitles the primary author to attend;
 if your company or project wishes to send multiple participants, it is best for
-them to send separate submissions.
+them to send separate submissions. We will be limiting representation from single companies and projects to assure balanced participation.
 
 All attendees will be expected to adhere to the [Conference Code of
 Conduct](http://confcodeofconduct.com). We will publish a summary of what
