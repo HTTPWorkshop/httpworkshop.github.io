@@ -61,9 +61,10 @@ Your submission doesn't need to be a complete paper or presentation; it just
 needs to communicate something about HTTP that's worth getting in front of a
 group of HTTP implementers and experts. 
 
-Successful submissions will be notified of the workshop details by XXX, and
-will need to confirm their attendance. If the PC wants you to give a
-presentation based upon your submission, you'll be notified.
+Successful submissions will be notified of the workshop details by 15 May 2015,
+and will need to confirm their attendance by 1 June 2015. If the PC wants you
+to give a presentation based upon your submission, you'll be notified shortly
+thereafter.
 
 Note that a successful submission only entitles the primary author to attend;
 if your company or project wishes to send multiple participants, it is best for
