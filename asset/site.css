@@ -1,7 +1,19 @@
 body {
-  padding-top: 100px;
-  height: 100%;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  text-rendering: optimizeLegibility;
+  -moz-font-feature-settings: "swsh=1,cswh=1,liga=1,kern=1";
+  -ms-font-feature-settings: "swsh" 1, "cswh" 1, "liga" 1, "kern" 1;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -webkit-hyphens: auto;
+  background-color: #fff;
+  color: #111;
+  max-width: 1020px;
+  padding: 0 1em;
+  margin: 72px auto; 
 }
+  
 *:not(*[href])[id]:before  { 
   display: block; 
   content: " "; 
