@@ -10,9 +10,9 @@ should the HTTP community focus on next? What will HTTP look like in ten or
 even twenty years?
 
 Lots of people have ideas about this, but don't have a chance to discuss their
-ideas with other HTTP implementers. Because the uses of HTTP differ so greatly
--- even between browsers and Web servers -- it's difficult to understand all
-of the impact of a proposal without getting a number of people in the room.
+ideas with others. Because the uses of HTTP differ so greatly -- even between
+browsers and Web servers -- it's difficult to understand all of the impact of a
+proposal without getting a number of people in the room.
 
 The HTTP Workshop is an attempt to facilitate these discussions in a focused
 atmosphere, with representation from many kinds of stakeholders in the HTTP
