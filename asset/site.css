@@ -1,8 +1,8 @@
 body {
 /*  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; */
   font-family: Georgia, serif;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 18px;
+  line-height: 26px;
   text-rendering: optimizeLegibility;
   -moz-font-feature-settings: "swsh=1,cswh=1,liga=1,kern=1";
   -ms-font-feature-settings: "swsh" 1, "cswh" 1, "liga" 1, "kern" 1;
@@ -18,7 +18,15 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
 }
-  
+
+.banner {
+  background-color: #eee;
+  font-size: 24px;
+  line-height: 32px;
+  padding: 0.5em 2em;
+  border-radius: 0.25em;
+}
+
 *:not(*[href])[id]:before  { 
   display: block; 
   content: " "; 
@@ -26,6 +34,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 65px; 
   visibility: hidden; 
 }
+
 .navbar-right {
   padding-right: 15px;
 }

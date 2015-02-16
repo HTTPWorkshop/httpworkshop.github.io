@@ -5,14 +5,16 @@ title: The HTTP Workshop
 
 # The HTTP Workshop
 
-HTTP/1.1 has been revised and HTTP/2 is out the door. What -- if anything --
-should the HTTP community focus on next? What will HTTP look like in ten or
-even twenty years?
+<div class="banner">
+<p>HTTP/1.1 has been revised and HTTP/2 is out the door.</p>
+<p>What should the HTTP community focus on next?</p>
+<p>What will HTTP look like in ten or even twenty years?</p>
+</div>
 
-Lots of people have ideas about this, but don't have a chance to discuss their
-ideas with others. Because the uses of HTTP differ so greatly -- even between
-browsers and Web servers -- it's difficult to understand all of the impact of a
-proposal without getting a number of people in the room.
+Lots of people have ideas about the future of HTTP, but don't have a chance to
+discuss their ideas with others. Because the uses of HTTP differ so greatly --
+even between browsers and Web servers -- it's difficult to understand all of
+the impact of a proposal without getting a number of people in the room.
 
 The HTTP Workshop is an attempt to facilitate these discussions in a focused
 atmosphere, with representation from many kinds of stakeholders in the HTTP
