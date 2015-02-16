@@ -8,7 +8,7 @@ title: The HTTP Workshop
 <div class="banner">
 <p>HTTP/1.1 has been revised and HTTP/2 is out the door.</p>
 <p>What should the HTTP community focus on next?</p>
-<p>What will HTTP look like in ten or even twenty years?</p>
+<p>What will the protocol look like in ten or even twenty years?</p>
 </div>
 
 Lots of people have ideas about the future of HTTP, but don't have a chance to
