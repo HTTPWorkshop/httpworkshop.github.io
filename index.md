@@ -53,6 +53,8 @@ We're looking for submissions that:
 * Propose ways to improve core aspects of HTTP such as **performance**, **security**, or **reliability** 
 * Define useful **extensions** to HTTP
 * Motivate work on **HTTP/3** (or beyond), with or without the constraint of backwards compatibility
+* Give an **opinion** on what the HTTP community should (or should not) focus
+  its energy on
 
 ... or something completely different. If you are the primary maintainer of an
 implementation of HTTP, please mention its details in your submission.
