@@ -13,6 +13,10 @@ body {
   max-width: 720px;
   padding: 0 1em;
   margin: 72px auto; 
+  margin-left: 280px;
+  background-image: url(/asset/http_workshop.svg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 h1, h2, h3, h4, h5, h6 {
