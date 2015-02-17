@@ -13,10 +13,18 @@ body {
   max-width: 720px;
   padding: 0 1em;
   margin: 72px auto; 
-  margin-left: 280px;
-  background-image: url(/asset/http_workshop.svg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+}
+
+@media screen and (min-width: 800px) {
+  body {
+    background-image: url(/asset/http_workshop.svg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: 280px;
+  }
+  .logo {
+    display: none;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
