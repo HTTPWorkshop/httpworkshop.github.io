@@ -71,7 +71,7 @@ if your organisation or project wishes to send multiple participants, it is
 best to send separate submissions. We will be limiting representation from
 single companies and projects to assure balanced participation.
 
-There is an approximately **200 Euro** fee for participation to cover costs;
+There will be an approximately **200 Euro** registration fee to cover costs;
 lunch, drinks and snacks will be included.
 
 All attendees will be expected to adhere to the [Conference Code of
