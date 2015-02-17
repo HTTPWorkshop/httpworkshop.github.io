@@ -57,8 +57,8 @@ We're looking for submissions that:
 ... or something completely different. If you are the primary maintainer of an
 implementation of HTTP, please mention its details in your submission.
 
-Submissions don't need to be a complete paper or presentation; it just needs to
-communicate something about HTTP that's worth getting in front of a group of
+Submissions don't need to be a complete paper or presentation; they just need
+to communicate something about HTTP that's worth getting in front of a group of
 HTTP implementers and experts.
 
 Successful submissions will be notified of the workshop details by 
