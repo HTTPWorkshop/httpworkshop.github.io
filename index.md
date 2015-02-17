@@ -38,7 +38,7 @@ visit an office or talk to a customer.
 
 We expect that each day will cover about two broad areas of discussion,
 possibly with presentations, or just open discussion. There will be plenty of
-unstructured time for "hallway" discussions, as well as social events.
+unstructured time for "hallway" discussions.
 
 
 ## Want to Come?
