@@ -1,8 +1,8 @@
 body {
 /*  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; */
   font-family: Georgia, serif;
-  font-size: 18px;
-  line-height: 26px;
+  font-size: 19px;
+  line-height: 28px;
   text-rendering: optimizeLegibility;
   -moz-font-feature-settings: "swsh=1,cswh=1,liga=1,kern=1";
   -moz-osx-font-smoothing: grayscale;
@@ -16,7 +16,7 @@ body {
   margin: 72px auto; 
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 900px) {
   body {
     background-image: url(/asset/http_workshop.svg);
     background-repeat: no-repeat;
@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .banner {
   background-color: #eee;
-  font-size: 24px;
+  font-size: 25px;
   line-height: 32px;
   padding: 0.5em 2em;
   border-radius: 0.25em;
