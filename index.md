@@ -12,7 +12,7 @@ title: The HTTP Workshop
 </div>
 
 Lots of people have ideas about the future of HTTP, but don't have a chance to
-discuss their ideas with others. Because the uses of HTTP differ so greatly --
+discuss them with others. Because the uses of the protocol differ so greatly --
 even between browsers and Web servers -- it's difficult to understand all of
 the impact of a proposal without getting a number of people in the room.
 
