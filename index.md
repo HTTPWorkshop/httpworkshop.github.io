@@ -29,7 +29,7 @@ Our goals are to:
 
 ## When and Where
 
-The workshop will be held in Münster Germany, 27-30 July 2015.
+The workshop will be held in [Münster Germany](http://osm.org/go/0GN54--?layers=Q&m=&relation=3134220), 27-30 July 2015.
 
 Note that we are purposefully holding the workshop in a somewhat "out of the
 way" location; we want you engaged with the other participants, not popping out
