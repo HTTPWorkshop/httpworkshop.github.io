@@ -100,5 +100,5 @@ The PC for the workshop is:
 * [Roy Fielding](http://roy.gbiv.com/) - fielding at gbiv dot com
 * [Mark Nottingham](https://www.mnot.net/) - mnot at mnot dot net
 * [Julian Reschke](http://www.julian-reschke.de) - julian.reschke at greenbytes dot de
-* Martin Thomson - martin.thomson at gmail dot com
+* [Martin Thomson](https://plus.google.com/+MartinThomson/posts) - martin.thomson at gmail dot com
 
