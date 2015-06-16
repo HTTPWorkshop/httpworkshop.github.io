@@ -4,3 +4,7 @@
     background-attachment: fixed;
     margin-left: 280px;
   }
+
+  #logo {
+    display: none;
+  }
