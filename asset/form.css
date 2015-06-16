@@ -1,0 +1,6 @@
+/* Logo */
+#logo a {background-image:url('https://httpworkshop.github.io/asset/http_workshop.svg'); min-height:0; height:40px}
+* html #logo a {/* IE6 png Support */
+	background-image: none;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://httpworkshop.github.io/asset/http_workshop.svg", sizingMethod="crop");
+}
