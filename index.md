@@ -60,7 +60,7 @@ There will be an approximately **225 Euro registration fee** to cover costs; lun
 
 All attendees will be expected to adhere to the [Conference Code of Conduct](http://confcodeofconduct.com/). We will publish a summary of what happens at the workshop.
 
-Please make submissions by 15 April 2016; a link will be available shortly.
+Please make submissions to [easychair](https://easychair.org/conferences/?conf=httpws2016) by 15 April 2016.
 
 
 ## Important Dates
