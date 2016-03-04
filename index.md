@@ -34,7 +34,7 @@ Finally, if you are a student working in a relevant area, this is a great opport
 
 ## When and Where
 
-The Workshop will be held in Stockholm, Sweden, 27-30 July 2016.
+The Workshop will be held in Stockholm, Sweden, 25-27 July 2016.
 
 
 ## Want to Come?
