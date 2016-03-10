@@ -34,7 +34,7 @@ Finally, if you are a student working in a relevant area, this is a great opport
 
 ## When and Where
 
-The Workshop will be held in Stockholm, Sweden, 27-30 July 2016.
+The Workshop will be held in Stockholm, Sweden, 25-27 July 2016.
 
 
 ## Want to Come?
@@ -60,7 +60,7 @@ There will be an approximately **225 Euro registration fee** to cover costs; lun
 
 All attendees will be expected to adhere to the [Conference Code of Conduct](http://confcodeofconduct.com/). We will publish a summary of what happens at the workshop.
 
-Please make submissions by 15 April 2016; a link will be available shortly.
+Please make submissions to [easychair](https://easychair.org/conferences/?conf=httpws2016) by 15 April 2016.
 
 
 ## Important Dates
