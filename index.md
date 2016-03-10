@@ -80,3 +80,10 @@ The PC for the Workshop is:
 * Julian Reschke - julian.reschke at greenbytes dot de
 * Daniel Stenberg - daniel at haxx dot se
 * Martin Thomson - martin.thomson at gmail dot com
+
+## Sponsor
+
+This year, the HTTP Workshop is being generously sponsored by The Internet Foundation in Sweden (IIS).
+
+[![The Internet Foundation In Sweden](/asset/IIS-yellow.png)](https://www.iis.se/english/about-iis/)
+
