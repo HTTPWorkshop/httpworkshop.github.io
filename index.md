@@ -39,15 +39,3 @@ Finally, if you are a student working in a relevant area, this is a great opport
 insight into this community.
 
 
-
-## Program Committee 
-
-The PC for the Workshop is:
-
-* Roy Fielding - fielding at gbiv dot com
-* Mark Nottingham - mnot at mnot dot net
-* Julian Reschke - julian.reschke at greenbytes dot de
-* Daniel Stenberg - daniel at haxx dot se
-* Martin Thomson - martin.thomson at gmail dot com
-
-
