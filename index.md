@@ -24,7 +24,7 @@ Past HTTP Workshops include:
 * [2016 in Stockholm, Sweden](https://github.com/HTTPWorkshop/workshop2016/wiki/Report)
 * [2017 in London, UK](https://github.com/HTTPWorkshop/workshop2017/wiki/Report)
 
-**The HTTP Workshop May Return.**
+**The HTTP Workshop is [returning in 2019](https://github.com/httpworkshop/workshop2019).**
 
 
 ## Who Should Come
