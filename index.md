@@ -20,11 +20,12 @@ Note that it is **not** a decision-making body; see the [HTTP Working Group](htt
 
 Past HTTP Workshops include:
 
-* [2015 in Münster, Germany](https://github.com/HTTPWorkshop/workshop2015/wiki/2015-Report)
-* [2016 in Stockholm, Sweden](https://github.com/HTTPWorkshop/workshop2016/wiki/Report)
+* [2015 in Münster, DE](https://github.com/HTTPWorkshop/workshop2015/wiki/2015-Report)
+* [2016 in Stockholm, SE](https://github.com/HTTPWorkshop/workshop2016/wiki/Report)
 * [2017 in London, UK](https://github.com/HTTPWorkshop/workshop2017/wiki/Report)
+* [2019 in Amsterdam, NL](https://github.com/HTTPWorkshop/workshop2019/wiki/Report)
 
-**The HTTP Workshop is [returning in 2019](https://github.com/httpworkshop/workshop2019).**
+**The HTTP Workshop may return.**
 
 
 ## Who Should Come
