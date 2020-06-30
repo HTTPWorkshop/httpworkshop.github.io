@@ -1,0 +1,96 @@
+
+html {
+	min-height: 100%;
+}
+
+body {
+  font-family: $bodyFont;
+  font-size: $bodyFontSize;
+  line-height: $bodyLineHeight;
+  @include typography;
+  background-color: $backgroundColour;
+  color: $bodyTextColour;
+  max-width: $contentWidth;
+  padding: 0 1em;
+  margin: $margin auto;
+}
+
+@media screen and (min-width: $bodyWidth) {
+  body {
+    background-image: url(/asset/http_workshop.svg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: 280px;
+  }
+  .logo {
+    display: none;
+  }
+}
+
+.banner {
+  background-color: #eee;
+  font-size: 25px;
+  line-height: 32px;
+  padding: 0.5em 2em;
+  @include rounded-corners(5px);
+}
+
+.navbar-right {
+  padding-right: 15px;
+}
+
+.example, code, pre, .spec {
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: $bodyFontSize*.7;
+  line-height: $bodyLineHeight*.7;
+  @include raw;
+  overflow-x: auto;
+  padding-bottom: 1em;  // fix for overflow scrollbar on safari
+  padding-top: 1em;
+  margin-bottom: 1em;
+  background-color: $boxBackgroundColour;
+}
+
+.feedbutton, a.feedbutton:link, a.feedbutton:visited, a.feedbutton:active, a.feedbutton:hover {
+  border: 1px solid;
+  border-color: #FC9 #630 #330 #F96;
+  padding: 0 3px;
+  font: bold 10px verdana,sans-serif;
+  color: #fff;
+  background: #F60;
+  text-decoration: none;
+}
+
+ul.navigation {
+  list-style: none;
+  font-family: $headerFont;
+  font-size: 90%;
+  color: $lightTextColour;
+  margin: 0;
+  padding: $paraSpacing 0 $paraSpacing ($margin);
+  background-color: transparentize($backgroundColour, 0.2);
+  @media screen and (min-width: $bodyWidth) {
+      text-align: right;
+      position: fixed;
+      top: 280px;
+      left: 0;
+      width: 190px;
+      float: left;
+      z-index: 10;
+  }
+  li {
+      margin: 0 0 15px 0;
+  }
+  @media screen and (max-width: $bodyWidth) {
+      margin-top: 2em;
+      display: flex;
+      li {
+          margin-right: 15px;
+      }
+  }
+  .hilite {
+    background-color: $accentColour;
+    padding: .25em .5em;
+    @include rounded-corners(5px);
+  }
+}

@@ -1,0 +1,31 @@
+
+$contentWidth: 820px;
+$margin: 72px;
+$bodyWidth: $contentWidth + ($margin * 2);
+
+$headerFont: Georgia, serif;
+$bodyFont: Georgia, serif;
+
+$bodyFontSize: 19px;
+$bodyLineHeight: 28px;
+
+$backgroundColour: #fff;
+$boxBackgroundColour: #f6f6f6;
+$accentColour: #fbb040;
+$bodyTextColour: #111;
+$lightTextColour: lighten($bodyTextColour, 20%);
+$headingColour: #111;
+$linkColour: #101a96;
+$linkVisitedColour: #961a10;
+
+$backgroundColourDark: #222;
+$boxBackgroundColourDark: #222;
+$accentColourDark: #626c6f;
+$bodyTextColourDark: #eee;
+$lightTextColourDark: #ddd;
+$headingColourDark: #eee;
+$linkColourDark: lighten($linkColour, 30%);
+$linkVisitedColourDark: lighten($linkVisitedColour, 30%);
+
+$paraSpacing: 6px;
+$inset: 1em;

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ site.blog_title }}{% if page.title %}: {{ page.title | strip_html }}{% endif %}</title>
+{% include headmatter.html %}
+    <link rel="start" href="{{ site.blog_base }}" title="Home">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{{ page.title | strip_html }}">
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description | strip_html }}">
+    {% else %}
+    <meta property="og:description" content="{{ page.excerpt | strip_html }}">
+    {% endif %}
+    <meta property="og:url" content="{{ site.url_base }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ site.blog_title }}">
+    <meta property="og:image" content="{{ site.blog_image_url }}">
+</head>
+
+<body>
+  {% include blog_header.html %}
+
+  {% if page.categories.size > 0 %}
+  <p class="tags">
+    {% for item in page.categories %}
+    <a href="{{ site.blog_base }}{{ item | downcase | replace:" ","-"}}/">{{ item }}</a>
+    {% endfor %}
+  </p>
+  {% endif %}
+
+  <h2>{{ page.title }}</h2>
+  <p class="date">{{ page.date | date: "%A, %e %B %Y" }}</p>
+  {% if page.subtitle %}
+  <h3 class="subtitle">{{ page.subtitle }}</h3>
+  {% endif %}
+
+  {{ content }}
+
+  <br>
+
+  {% include footer.html  cc=false %}
+</body>
+</html>

@@ -1,0 +1,76 @@
+
+p {
+  margin-top: $paraSpacing;
+}
+
+acronym:hover, abbrev:hover { cursor: help; }
+abbrev[title], acronym[title], span[title] {
+  border-bottom: thin dotted;
+  cursor: help;
+}
+
+input[type='text'], textarea, select {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  margin: 2px 1px;
+  padding: 1px;
+}
+
+hr {
+  border-style: none;
+  background-color: $accentColour;
+  padding: 1px;
+}
+
+blockquote {
+  font-size: 95%;
+  border-style: solid;
+  border-color: $accentColour;
+  border-width: 0 0 0 $inset / 2;
+  padding-left: $inset;
+  margin: $paraSpacing $inset $paraSpacing * 2 0;
+}
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+code {
+  background-color: $boxBackgroundColour;
+  padding: 4px;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0px;
+}
+
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+
+sub {
+  top: 0.4em;
+}
+
+q { quotes: '\201C' '\201D' '\2018' '\2019'; }
+
+q:before, q:after {
+  font-size: 2em;
+  line-height: 1px;
+  position: relative;
+  top: $paraSpacing;
+  opacity: .7;
+}
+
+q:before {
+  content: "\201C";
+  content: open-quote;
+}
+
+q:after {
+  content: "\201D";
+  content: close-quote;
+}

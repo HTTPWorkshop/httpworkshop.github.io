@@ -1,0 +1,33 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headerFont;
+  font-weight: normal;
+  @include typography;
+  @include decorative;
+  color: $headingColour;
+  margin: $paraSpacing*4 0 $paraSpacing 0;
+  padding: 0;
+  line-height: 1em;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+}
+
+h1 {
+  font-size: 2.8em;
+  display: inline-block;
+}
+h2 { font-size: 2em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 0.95em; }
+h5 { font-size: 0.85em; }
+
+h1 + .subtitle {
+  color: $lightTextColourDark;
+  background-color: $backgroundColourDark;
+  margin-top: 0em;
+  padding: 0.25em 0.5em;
+  @include rounded-corners(5px);
+}
+
+h1 + h2, h2 + h3, h3 + h4, h4 + h5, h5 + h6 {
+    margin-top: $paraSpacing*2;
+}
