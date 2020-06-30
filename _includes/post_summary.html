@@ -1,0 +1,10 @@
+  <div class="story">
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p class="date">{{ post.date | date: "%A, %e %B %Y" }}</p>
+
+    {{ post.excerpt | strip_html }}
+
+    <p class="footnote">
+      <a href="{{ post.url }}">this entry&#8217;s page</a>
+    </p>
+  </div>

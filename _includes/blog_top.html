@@ -1,0 +1,5 @@
+<ul class="sep">
+{% for post in site.posts limit: page.max_posts %}
+  <li><a href="{{ post.url }}" title="{{ post.date | date: "%A, %B %e %Y" }}">{{ post.title }}</a> &#8212; {{ post.excerpt | strip_html | strip }}</li> 
+{% endfor %}
+</ul>
