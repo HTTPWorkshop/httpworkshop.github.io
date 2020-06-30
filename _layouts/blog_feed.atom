@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.blog_title | xml_escape }}</title>
+  <link rel="alternate" type="text/html" href="{{ site.url_base }}{{ site.blog_base }}" />
+  <link rel="self" type="application/atom+xml" href="{{ site.url_base }}{{ site.blog_base }}index.atom" />
+  <id>{{ site.blog_id }}</id>
+  <updated>{{ site.time | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
+  <subtitle>{{ site.blog_subtitle | strip_html | xml_escape }}</subtitle>
+{% for post in site.posts limit: page.max_posts %}
+  <entry>
+    <title>{{ post.title | strip_html | xml_escape }}</title>
+    <link rel="alternate" type="text/html" href="{{ post.url | xml_escape }}" />
+    <id>{{ site.url_base }}{{ post.id }}</id>
+    <updated>{{ post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
+    <author>
+        <name>{{ site.blog_author_name | xml_escape }}</name>
+        <uri>{{ site.blog_author_url | xml_escape }}</uri>
+    </author>
+    <summary>{{ post.excerpt | strip_html | strip | xml_escape }}</summary>
+    {% for item in post.categories %}
+	<category term="{{ item | strip | xml_escape }}" />
+    {% endfor %}	
+    <content type="html" xml:lang="en" xml:base="{{ post.url }}">
+  	  <![CDATA[{{ post.content | markdownify | strip }}]]>
+    </content>
+  </entry>
+{% endfor %}
+</feed>

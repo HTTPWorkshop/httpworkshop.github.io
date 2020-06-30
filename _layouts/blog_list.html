@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>{{ site.blog_title }}{% if page.title %}: {{ page.title | strip_html }}{% endif %}</title>
+{% include headmatter.html %}
+    <meta property="og:type" content="website">
+    {% if page.title %}
+    <meta property="og:title" content="{{ site.blog_title }}: {{ page.title | strip_html }}">
+    <meta property="og:description" content="{{ site.page_title | strip_html }} entryies on {{ site.blog_title }}">
+    {% else %}
+    <meta property="og:title" content="{{ site.blog_title }}">
+    <meta property="og:description" content="{{ site.blog_subtitle | strip_html }}">
+    {% endif %}
+    <meta property="og:url" content="{{ site.url_base }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ site.blog_title }}">
+    <meta property="og:image" content="{{ site.blog_image_url }}">
+  </head>
+
+<body>
+  {% include blog_header.html %}
+
+  {% if page.title %}<h2>{{ page.title }}</h2>{% endif %}
+
+  {% for post in site.posts limit: page.max_posts %}
+    {% include post_summary.html %}
+  {% endfor %}
+
+  {% if page.more_link %}<h3><a href="{{ page.more_link }}">more...</a></h3>{% endif %}
+
+  {% include footer.html %}
+</body>
+</html>

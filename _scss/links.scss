@@ -1,0 +1,44 @@
+a:link, a:visited, a:active {
+  color: $linkColour;
+  text-decoration: none;
+  background-color: transparent;
+}
+a:visited {
+  color: $linkVisitedColour;
+}
+.navtop a:visited, .navigation a:visited {
+  color: $linkColour;
+}
+a:active {
+  color: $linkColour;
+  background-color: #acf;
+}
+a.offsite:hover {
+  background-color: #99A;
+  color: white;
+  text-decoration: none;
+  border-bottom: none;
+  padding: 0.2em 0;
+}
+
+@media screen {
+  a[type="application/pdf"]:after {
+    @include annotation;
+    content: " pdf";
+  }
+}
+
+h1, h2, h3, h4 {
+  [id]:hover:after {
+    @include annotation;
+    content: " #" attr(id) " ";
+  }
+}
+
+*:not(*[href])[id]:before  { 
+  display: block; 
+  content: " "; 
+  margin-top: -65px; 
+  height: 65px; 
+  visibility: hidden; 
+}
