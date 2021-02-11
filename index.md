@@ -5,7 +5,7 @@ layout: front
 
 # The HTTP Workshop
 
-The HTTP Workshop is an occasional gathering of HTTP experts to discuss the Web's foundational protocol.
+The HTTP Workshop is an occasional gathering of HTTP experts and other interested parties to discuss the Web's foundational protocol.
 {: .banner}
 
 It is largely unstructured, promoting unfiltered discussion among the major implementers and
