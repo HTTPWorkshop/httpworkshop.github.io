@@ -16,7 +16,7 @@ to drive most of the agenda. Our goals are to:
 * **Identify** areas of work or specific efforts that have common interest, to foster further work (in standards bodies and in implementations)
 * **Ensure** broad input into future development of the protocol
 
-Note that it is **not** a decision-making body; see the [HTTP Working Group](http://httpwg.org).
+Note that it is **not** a decision-making body; see the [HTTP Working Group](https://httpwg.org).
 
 Past HTTP Workshops include:
 
@@ -25,7 +25,7 @@ Past HTTP Workshops include:
 * [2017 in London, UK](https://github.com/HTTPWorkshop/workshop2017/wiki/Report)
 * [2019 in Amsterdam, NL](https://github.com/HTTPWorkshop/workshop2019/wiki/Report)
 
-**The HTTP Workshop may return.**
+**The [HTTP Workshop for 2022](https://github.com/HTTPWorkshop/workshop2022/blob/main/README.md) will be in November.**
 
 
 ## Who Should Come
