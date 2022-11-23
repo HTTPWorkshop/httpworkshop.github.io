@@ -24,8 +24,9 @@ Past HTTP Workshops include:
 * [2016 in Stockholm, SE](https://github.com/HTTPWorkshop/workshop2016/wiki/Report)
 * [2017 in London, UK](https://github.com/HTTPWorkshop/workshop2017/wiki/Report)
 * [2019 in Amsterdam, NL](https://github.com/HTTPWorkshop/workshop2019/wiki/Report)
+* [2022 in Oxford, UK](https://github.com/HTTPWorkshop/workshop2022/blob/main/report.md)
 
-**The [HTTP Workshop for 2022](https://github.com/HTTPWorkshop/workshop2022/blob/main/README.md) will be in November.**
+**The HTTP Workshop may return.**
 
 
 ## Who Should Come
