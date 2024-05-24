@@ -3,8 +3,8 @@
   blog_base: "/blog/"
   blog_title: "HTTP Notes"
   blog_subtitle: "News and resources from the HTTP community"
-  blog_id: "tag:httpwork.shop,2020-06-30:/blog//1"
-  blog_image_url: "https://httpwork.shop/asset/http_workshop.png"
+  blog_id: "tag:httpworkshop.org,2020-06-30:/blog//1"
+  blog_image_url: "https://httpworkshop.org/asset/http_workshop.png"
   permalink: /blog/:year/:month/:day/:title
 
   sass:
