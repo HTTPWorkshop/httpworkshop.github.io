@@ -18,6 +18,9 @@ to drive most of the agenda. Our goals are to:
 
 Note that it is **not** a decision-making body; see the [HTTP Working Group](https://httpwg.org).
 
+The [2024 HTTP Workshop](https://github.com/HTTPWorkshop/workshop2024/blob/main/README.md) will be held in November.
+{:.banner}
+
 Past HTTP Workshops include:
 
 * [2015 in Münster, DE](https://github.com/HTTPWorkshop/workshop2015/wiki/2015-Report)
@@ -26,8 +29,6 @@ Past HTTP Workshops include:
 * [2019 in Amsterdam, NL](https://github.com/HTTPWorkshop/workshop2019/wiki/Report)
 * [2022 in Oxford, UK](https://github.com/HTTPWorkshop/workshop2022/blob/main/report.md)
 
-The [2024 HTTP Workshop](https://github.com/HTTPWorkshop/workshop2024/blob/main/README.md) will be held in November.
-{:.banner}
 
 ## Who Should Come
 
