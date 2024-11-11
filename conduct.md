@@ -1,5 +1,5 @@
 ---
-title: The HTTP Workshop Code of Conduct
+title: HTTP Workshop Code of Conduct
 layout: page
 ---
 
