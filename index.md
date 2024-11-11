@@ -41,3 +41,7 @@ back-end APIs, please consider attending.
 
 Finally, if you are a student working in a relevant area, this is a great opportunity to gain
 insight into this community.
+
+---
+
+_See also_: our [code of conduct](/conduct)
