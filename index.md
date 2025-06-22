@@ -18,7 +18,7 @@ to drive most of the agenda. Our goals are to:
 
 Note that it is **not** a decision-making body; see the [HTTP Working Group](https://httpwg.org).
 
-The HTTP Workshop may return.
+The HTTP Workshop may return in 2026.
 {:.banner}
 
 Past HTTP Workshops include:
