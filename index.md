@@ -18,7 +18,7 @@ to drive most of the agenda. Our goals are to:
 
 Note that it is **not** a decision-making body; see the [HTTP Working Group](https://httpwg.org).
 
-The HTTP Workshop may return in 2026.
+The [2026 HTTP Workshop](https://github.com/HTTPWorkshop/workshop2026?tab=readme-ov-file#2026-http-workshop) will be held in Basel, Switzerland.
 {:.banner}
 
 Past HTTP Workshops include:
